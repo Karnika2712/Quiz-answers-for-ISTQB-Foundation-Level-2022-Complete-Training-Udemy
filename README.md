@@ -1,0 +1,1 @@
+# Quiz-answers-for-ISTQB-Foundation-Level-2022-Complete-Training-Udemy
