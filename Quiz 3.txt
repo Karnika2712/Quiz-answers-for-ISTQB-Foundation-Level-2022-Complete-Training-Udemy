@@ -1,0 +1,14 @@
+Question 1: 
+Which of the following is a main goal of software testing?
+-Asses the quality of the software
+
+Question 2:
+If  you find a defect while you are testing the software early in the lifecycle, what will be impacted by this action?
+-Risk of finding this defect in operation will be reduced
+
+Question 3:
+What is the main role of the tester in software projects?
+-find defects
+
+Software testing is a way to …
+-Reduce the risk of software failure in operation.
